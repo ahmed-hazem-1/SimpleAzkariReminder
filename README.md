@@ -33,7 +33,7 @@ Alternatively, you can use the pre-built executable provided in the `dist` folde
 - **Download the executable:** [Azkari Reminder.exe](./dist/Azkari%20Reminder.exe)
 
 ## Data Source 🔗
-The Azkar data is fetched from [this GitHub repository]([https://osamayy/azkar-db/master](https://osamayy/azkar-db/master/azkar.json), ensuring that you receive accurate and updated Azkar.
+The Azkar data is fetched from [this GitHub repository]([https://osamayy/azkar-db/master](https://osamayy/azkar-db), ensuring that you receive accurate and updated Azkar.
 
 ## Contributing 🤝
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
